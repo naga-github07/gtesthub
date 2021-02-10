@@ -1,0 +1,5 @@
+This is 6th file in testbranch
+
+This is the edit line in Mater Branch of file-6
+
+adding new line in test branch
